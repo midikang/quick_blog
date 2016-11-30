@@ -45,3 +45,5 @@ group :development do
   gem 'spring'
 end
 
+# Add by midi for clearance gem
+gem "clearance"
