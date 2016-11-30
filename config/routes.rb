@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'dashboard/show'
+
   namespace :admin do
   get 'dashboard/show'
   end
